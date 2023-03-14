@@ -69,3 +69,23 @@
  http://localhost/reservadesalas/view/login.php
  
  Prontooo o sistema está no seu computador!!!!!!
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/55327081/225060106-fa2cc1ab-7d22-4d87-886b-94e4883bac45.png)
+
+ ![image](https://user-images.githubusercontent.com/55327081/225060230-92a1c7c3-6a33-43c4-90a5-7711726a2e81.png)
+
+ ![image](https://user-images.githubusercontent.com/55327081/225060354-3951696e-0b3a-442e-bb81-106ce2db7405.png)
+
+ ![image](https://user-images.githubusercontent.com/55327081/225060559-43445a05-f8b3-4935-aa08-65eb310617e3.png)
+
+ ![image](https://user-images.githubusercontent.com/55327081/225060663-50ca5c6d-d19f-449c-9433-92fdf4cf44f8.png)
+
+ ![image](https://user-images.githubusercontent.com/55327081/225060785-d630ba04-69c4-4d7b-b62b-2e4abfd5c4a6.png)
+
+ ![image](https://user-images.githubusercontent.com/55327081/225060923-c8ece64a-c8d0-494b-b8a4-5168f1ed1240.png)
+
+ ![image](https://user-images.githubusercontent.com/55327081/225061980-73afd667-af59-4fc3-a5f0-dad13a05e068.png)
+
+ ![image](https://user-images.githubusercontent.com/55327081/225062161-47528f76-f1a2-435a-993e-2ee80deed93c.png)
+
