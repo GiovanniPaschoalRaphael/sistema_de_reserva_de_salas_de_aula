@@ -1,7 +1,7 @@
 # sistema_de_reserva_de_salas_de_aula
 
 
- SABE  COLOCAR O BANCO DE DADOS  NO PhpMyAdmin? siga os passos
+ SABE  COLOCAR O BANCO DE DADOS  NO PhpMyAdmin? siga os passos<br>
  baixe o wampp ou xampp  irei explixar pelo xammpp mas é basicamente mesma coisa so muda o nome da pasta onde irá por o arquivo <BR> 
  BAIXAR O XAMPP: https://www.apachefriends.org/pt_br/download.html<BR>
  BAIXAR O WAMP: https://www.wampserver.com/en/ <BR>
@@ -23,8 +23,8 @@
  pronto o sistema está  no servidor local
  <br>
  
- PARA O WAMP 
- Antes de tudo  abra o wamp e ligue todos os serviços
+ PARA O WAMP <br>
+ Antes de tudo  abra o wamp e ligue todos os serviços<br>
  1°Abra a pasta (c:) <br>
  2°Abra a pasta wamp64 <br>
  3°Abra a pasta wwww <br>
@@ -33,7 +33,7 @@
  <br>
  
  
- Vamos colocar o  Banco de dados no PhoMyAdmin
+ Vamos colocar o  Banco de dados no PhoMyAdmin<br>
 1°deixe o apache e o mysql ligados no server que você escolheu!! meu caso é o xampp <br>
 ![image](https://user-images.githubusercontent.com/55327081/205532489-2ad5a0d9-2d60-452d-8d9e-dd1530df543f.png)
 <br>
@@ -88,4 +88,10 @@
  ![image](https://user-images.githubusercontent.com/55327081/225061980-73afd667-af59-4fc3-a5f0-dad13a05e068.png)
 
  ![image](https://user-images.githubusercontent.com/55327081/225062161-47528f76-f1a2-435a-993e-2ee80deed93c.png)
+
+
+<br>
+para acessar o sistema use  esta senha e login<br>
+login:teste<br>
+senha:teste<br>
 
