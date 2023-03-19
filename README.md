@@ -49,7 +49,7 @@
  5° Clicando em importar você vai selecionar o sql
  ![image](https://user-images.githubusercontent.com/55327081/205533484-0ebb966a-eaa1-4f1d-baf7-84ea8b6bc711.png)
   Para fazer isso abra a pasta onde esta o seu projeto seja ele na pasta www ou htdocs abra a pasta banco de dados 
- e selecione o sgreserva.sql
+ e selecione o  banco de dados na pasta do projeto
  <br>
  6° Por  fim clique em Importar
  ![image](https://user-images.githubusercontent.com/55327081/205533750-21e53685-be70-449a-b784-714b1280c9c8.png)
